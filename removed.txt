@@ -1,0 +1,49 @@
+**Academic Excellence Scholarship | (September 2018)** 
+
+_Cardiff Sixth Form College, Cardiff, UK_
+
+- Competitive merit-based award. Selection based on past academic performance and results of an extensive multi-subject test.
+- Selected 5 out of approximately 80 applicants.
+- Valued at $14000 for 8 months.
+
+
+
++ Located and Annotated the potential novel nucleotide-binding protein sequence in phage JohnDoe.
++ Compared the potential sequence against known nucleotide-binding lsm and Hfq-RNA binding proteins using the R programming language.
++ Helped in the creation and sharing of the online presentation ([link](https://www.youtube.com/watch?v=FuL0ENJOqas)).
+
+
+- sea phages
+- CSMB 2023
+- 
+
+
+too long for a CV (4 pages)
+
+remove redundant --> remove supervisor
+
+make it easier to read
+
+NSERC USRA --> slelection based on does not make sense
+
+value is ok
+
+
+
+TST --> more conconsie
+
+
+two lines max for each one
+
+shorten the titles
+title should not be repeating
+
+max 3 points
+
+
+too many points does not make sense --> if its small you write less points
+
+10hrs= 2 points / 1 hrs = 1 point
+
+full time 3-4 points maximum
+title
