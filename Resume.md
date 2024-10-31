@@ -293,19 +293,20 @@ _University of Ottawa, Ottawa, ON_
 
 **Articles (Peer Reviewed)**
 
-Couture, JF., Gregoire, S., Gregoire, J., Yidai, Y., Monika, J., Sarvan, S., **Zaker, A.**, Ulrich, K., Brunzelle, J., Mer, A. (2024). Structural insights into an atypical histone binding mechanism by a PHD finger. Structure 0, (2024). doi:10.1016/j.str.2024.06.017
+Couture, JF., Gregoire, S., Gregoire, J., Yidai, Y., Monika, J., Sarvan, S., **Zaker, A.**, Ulrich, K., Brunzelle, J., Mer, A. (2024). Structural insights into an atypical histone binding mechanism by a PHD finger. Structure 32 (9), 1498-1506 (2024). doi:10.1016/j.str.2024.06.017
 
 \vspace{0.25em}
 
-Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S. & Mer, A. S. Text-mining-based feature selection for anticancer drug response prediction. Bioinformatics Advances 4, vbae047 (2024). doi:10.1093/bioadv/vbae047
+Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S. & Mer, A. S. (2024). Text-mining-based feature selection for anticancer drug response prediction. Bioinformatics Advances 4, vbae047. doi:10.1093/bioadv/vbae047
 
 \vspace{0.25em}
 
-Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.**, D’Costa, VM., Mer, A. (2024). Characterization of the Diversity of Type IV Secretion System-encoding Plasmids in _Acinetobacter_. Emerg Microbes Infect 13, 2320929 (2024). doi:10.1080/22221751.2024.2320929
+Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.**, D’Costa, VM., Mer, A. (2024). Characterization of the Diversity of Type IV Secretion System-encoding Plasmids in _Acinetobacter_. Emerg Microbes Infect 13 (1), 2320929 (2024). doi:10.1080/22221751.2024.2320929
 
 \vspace{0.25em}
 
-Roy S., **Zaker, A.**, Mer, A., D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer, NAR Cancer, 5(3). doi:10.1093/narcan/zcad047.
+Roy S., **Zaker, A.**, Mer, A., D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer, NAR Cancer 5(3), zcad047. doi:10.1093/narcan/zcad047.
+
 
 \vspace{0.25em}
 
