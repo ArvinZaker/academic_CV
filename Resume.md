@@ -105,9 +105,9 @@ _University of Ottawa, Ottawa, ON_
 
 + Experienced in bioinformatics  data analysis using R and Python programming languages
 + Proficiency in developing reproducible bioinformatics pipelines in Unix systems with a set of languages such as Bash, Nextflow and Nix.
-+ Expertise in Multi-omics data analysis, including genomics, epigenomics, and transcriptomics data.
++ Expertise in Multi-omics data analysis, including genomics, epigenomics, and transcriptomics.
 + Proficient in bioinformatics programming using R and Python programming languages
-+ Expert in developing reproducible bioinformatics workflows across Unix and high-performance computing environments, utilizing pipeline frameworks like Nextflow, and Nix.
++ Expert in developing reproducible bioinformatics workflows across Unix and high-performance computing environments.
 + Advanced machine learning model development in cancer genomics and precision medicine. 
 + Proficient in data visualization and statistical interpretation of complex biological datasets.
 
@@ -125,7 +125,7 @@ _University of Ottawa, Ottawa, ON_
 
 **Contribution:**
 
-+ Collaborators: Dr. Ben Tsang, Dr. Gilda Stefanelli, and Dr. Jean-Francois Couture 
++ Collaborators: Dr. Ben Tsang, Dr. Gilda Stefanelli, and Dr. Jean-Francois Couture.
 + Perform epigenomic analysis of clinical exosomal DNA samples to identify differentially methylated regions and pathways.
 + Created and optimized Cut&Run epigenomic analysis pipeline to explore the developmental impacts of neurological conditions in mice.
 + Integrated and aggregated multi-omics data from 44 studies and databases.
@@ -155,7 +155,7 @@ _University of Ottawa, Ottawa, ON_
 
 **Contribution:** 
 
-+ Performed literature review to identify common methods of quantifying drug response in patient-derived xenografts (PDX) 
++ Performed literature review to identify common methods of quantifying drug response in patient-derived xenografts (PDX).
 + Developed xeMetron package to calculate 250 existing and novel metrics for measuring the drug response in PDX.
 + Performed biomarker discovery to identify transcriptional markers of drug sensitivity in chemotherapies.
 + Created machine learning algorithms to predict drug response in clinical datasets.
@@ -184,9 +184,9 @@ _University of Ottawa, Ottawa, ON_
 
 **Contribution:** 
 
-+ Performed environmental sampling, phage extraction, and phage amplification assays
++ Performed environmental sampling, phage extraction, and phage amplification assays.
 + Conducted DNA extraction and restriction digest analysis via gel electrophoresis.
-+ Discovered and annotated the genome of two novel phages, Arzan and Khorshid
++ Discovered and annotated the genome of two novel phages, Arzan and Khorshid.
 
 \vspace{0.25em}
 
@@ -198,9 +198,9 @@ _University of Ottawa, Ottawa, ON_
 
 **Contribution:** 
 
-+ Designed experiments and set up research equipment for data collection
-+ Performed experiments on mouse muscles using electrophysiological equipment
-+ Performed antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program
++ Designed experiments and set up research equipment for data collection.
++ Performed experiments on mouse muscles using electrophysiological equipment.
++ Performed antibody staining, fluorescent imaging, and analysis of muscle tissue in the Imiris program.
 
 ######################################################################################################################################################################
 
@@ -210,23 +210,23 @@ _University of Ottawa, Ottawa, ON_
 
 **Publications**
 
-Asare-Werehene, M., **Zaker, A.**, Tripathi, S., Communal, L., Carmona, E., Mes-Masson, A., Tsang, B., and Mer, A. (2024). Spotlight on Nuclear PD-L1 in Ovarian Cancer Chemoresistance: Hidden but Mighty. Cancer Research (Submitted manuscript in December 2024, currently under review). 
+Asare-Werehene, M., **Zaker, A.**, Tripathi, S., Communal, L., Carmona, E., Mes-Masson, A., Tsang, B., and Mer, A. (2024). Spotlight on Nuclear PD-L1 in Ovarian Cancer Chemoresistance: Hidden but Mighty. _Cancer Research_ (Submitted manuscript in December 2024, currently under review). 
 
 \vspace{0.25em}
 
-Grégoire, S., Grégoire, J., Yang, Y., Capitani, S., Joshi, M., Sarvan, S., **Zaker, A.**, Ning, Z., Figeys, D., Ulrich, K., Brunzelle, J. S., Mer, A., & Couture, J.-F. (2024). Structural insights into an atypical histone binding mechanism by a PHD finger. Structure, 32(9), 1498-1506.e4. \href{https://doi.org/10.1016/j.str.2024.06.017}{\underline{\textsc{doi: 10.1016/j.str.2024.06.017}}}
+Grégoire, S., Grégoire, J., Yang, Y., Capitani, S., Joshi, M., Sarvan, S., **Zaker, A.**, Ning, Z., Figeys, D., Ulrich, K., Brunzelle, J. S., Mer, A., & Couture, J.-F. (2024). Structural insights into an atypical histone binding mechanism by a PHD finger. _Structure_, 32(9), 1498-1506.e4. \href{https://doi.org/10.1016/j.str.2024.06.017}{\underline{\textsc{doi: 10.1016/j.str.2024.06.017}}}
 
 \vspace{0.25em}
 
-Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S., & Mer, A. S. (2024). Text-mining-based feature selection for anticancer drug response prediction. Bioinformatics Advances, 4(1), vbae047. \href{https://doi.org/10.1093/bioadv/vbae047}{\underline{\textsc{doi: 10.1093/bioadv/vbae047}}}
+Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S., & Mer, A. S. (2024). Text-mining-based feature selection for anticancer drug response prediction. _Bioinformatics Advances_, 4(1), vbae047. \href{https://doi.org/10.1093/bioadv/vbae047}{\underline{\textsc{doi: 10.1093/bioadv/vbae047}}}
 
 \vspace{0.25em}
 
-Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.**, Xia, X., Mer, A. S., & D’Costa, V. M. (2024). Characterization of the diversity of type IV secretion system-encoding plasmids in Acinetobacter. Emerging Microbes & Infections, 13(1), 2320929. \href{https://doi.org/10.1080/22221751.2024.2320929}{\underline{\textsc{doi: 10.1080/22221751.2024.2320929}}}
+Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.**, Xia, X., Mer, A. S., & D’Costa, V. M. (2024). Characterization of the diversity of type IV secretion system-encoding plasmids in Acinetobacter. _Emerging Microbes & Infections_, 13(1), 2320929. \href{https://doi.org/10.1080/22221751.2024.2320929}{\underline{\textsc{doi: 10.1080/22221751.2024.2320929}}}
 
 \vspace{0.25em}
 
-Roy, S., **Zaker, A.**, Mer, A., & D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. NAR Cancer, 5(3), zcad047. \href{https://doi.org/10.1093/narcan/zcad047}{\underline{\textsc{doi: 10.1093/narcan/zcad047}}}
+Roy, S., **Zaker, A.**, Mer, A., & D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. _NAR Cancer_, 5(3), zcad047. \href{https://doi.org/10.1093/narcan/zcad047}{\underline{\textsc{doi: 10.1093/narcan/zcad047}}}
 
 \vspace{0.25em}
 
@@ -276,7 +276,7 @@ mice skeletal muscle fatigue kinetics. _University of Ottawa UROP symposium._ Ot
 
 + Collaborative project with Dr. Stefanelli lab.
 + Developed a pipeline for performing Cut&Run analysis and annotating the analysis outcomes.
-+ Successfully stacked multiple technologies to create a user-friendly pipeline
++ Successfully stacked multiple technologies to create a robust pipeline.
 + Created a user-friendly guide for improving the utility of the pipeline for our collaborators.
 + Improved the reproducibility of existing pipelines by utilizing Nix programming language.
 
@@ -285,9 +285,9 @@ mice skeletal muscle fatigue kinetics. _University of Ottawa UROP symposium._ Ot
 
 **text_features \href{https://github.com/merlab/text_features}{\underline{\textsc{\faGithub}}} \hfill March 2024**
 
-+ Compared and analyzed the impact of various feature selection methods in influencing 
-+ Created scripts to be used in high-performance computing environment
-+ Created large-scale visualizations to communicate abstract findings to a wide audience
++ Compared and analyzed the impact of various feature selection methods in drug response prediction models.
++ Created scripts to be used in high-performance computing environment in the cloud and locally.
++ Created large-scale visualizations to communicate abstract findings to a wide audience.
 
 \vspace{0.25em}
 
@@ -298,24 +298,24 @@ mice skeletal muscle fatigue kinetics. _University of Ottawa UROP symposium._ Ot
 + Aggregated pan-cancer dataset of over 65,000 patients from across 144 studies.
 + Analyzed the mutational effect of the SMC5/6 protein complex and its subunits.
 + Performed survival analysis to identify the SMC5/6-related risk factors to cancer prognosis.
-+ Identified large-scale genomic instability associated with SMC5/6 mutation in patient transcriptome and phenome.
++ Identified large-scale genomic instability associated with SMC5/6 mutation in patient transcriptome.
 
 \vspace{0.25em}
 
 **vian-clin-sci \href{https://github.com/ArvinZaker/vinas-clin-sci-2022}{\underline{\textsc{\faGithub}}} \hfill March 2023**
 
 + Reproduced the bioinformatics analysis performed by Viñas et al. (2020) 
-\href{https://pubmed.ncbi.nlm.nih.gov/32662516/}{\underline{PMID: 32662516}}
-+ Created a formatted report to present the re-analysis.
-+ Enhanced the analysis outcomes by utilizing newer and more cutting-edge tools.
+\href{https://pubmed.ncbi.nlm.nih.gov/32662516/}{\underline{PMID: 32662516}}.
++ Developed a comprehensive report and delivered an in-depth presentation of the re-analysis, incorporating detailed visualizations and narrative summaries.
++ Optimized the analysis outcomes by integrating state-of-the-art bioinformatics tools to enhance data resolution and accuracy.
 
 \vspace{0.25em}
 
 **ATG16L1-MYPT1 \href{https://github.com/merlab/ATG16L1-MYPT1_Russell_Lab}{\underline{\textsc{\faGithub}}} \hfill November 2022**
 
-+ Collaborative project with Dr. Ryan Russel lab
-+ Performed a differential expression analysis of VHL and RB knockout mice samples
-+ Identified the differentially expressed genes and pathways associated with knockouts
-+ Verified findings using literature text mining tools.
++ Collaborative project with Dr. Ryan Russel lab.
++ Performed a differential expression analysis of VHL and RB knockout mice samples.
++ Identified the differentially expressed genes and pathways associated with knockouts.
++ Verified findings using novel literature text mining tools.
 
 \vspace{0.25em}

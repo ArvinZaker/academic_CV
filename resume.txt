@@ -62,12 +62,11 @@ Skills
 -   Proficiency in developing reproducible bioinformatics pipelines in
     Unix systems with a set of languages such as Bash, Nextflow and Nix.
 -   Expertise in Multi-omics data analysis, including genomics,
-    epigenomics, and transcriptomics data.
+    epigenomics, and transcriptomics.
 -   Proficient in bioinformatics programming using R and Python
     programming languages
 -   Expert in developing reproducible bioinformatics workflows across
-    Unix and high-performance computing environments, utilizing pipeline
-    frameworks like Nextflow, and Nix.
+    Unix and high-performance computing environments.
 -   Advanced machine learning model development in cancer genomics and
     precision medicine.
 -   Proficient in data visualization and statistical interpretation of
@@ -82,7 +81,7 @@ Supervisor: Dr. Arvind Mer (Primary Supervisor) and
 Contribution:
 
 -   Collaborators: Dr. Ben Tsang, Dr. Gilda Stefanelli, and
-    Dr. Jean-Francois Couture
+    Dr. Jean-Francois Couture.
 -   Perform epigenomic analysis of clinical exosomal DNA samples to
     identify differentially methylated regions and pathways.
 -   Created and optimized Cut&Run epigenomic analysis pipeline to
@@ -118,7 +117,7 @@ Xenograft
 Contribution:
 
 -   Performed literature review to identify common methods of
-    quantifying drug response in patient-derived xenografts (PDX)
+    quantifying drug response in patient-derived xenografts (PDX).
 -   Developed xeMetron package to calculate 250 existing and novel
     metrics for measuring the drug response in PDX.
 -   Performed biomarker discovery to identify transcriptional markers of
@@ -153,11 +152,11 @@ Title: Discovery and Characterization of Phage Arzan and Khorshid
 Contribution:
 
 -   Performed environmental sampling, phage extraction, and phage
-    amplification assays
+    amplification assays.
 -   Conducted DNA extraction and restriction digest analysis via gel
     electrophoresis.
 -   Discovered and annotated the genome of two novel phages, Arzan and
-    Khorshid
+    Khorshid.
 
 UROP Research Assistant November 2020 - July 2022
 
@@ -169,11 +168,11 @@ Kinetics.
 Contribution:
 
 -   Designed experiments and set up research equipment for data
-    collection
+    collection.
 -   Performed experiments on mouse muscles using electrophysiological
-    equipment
+    equipment.
 -   Performed antibody staining, fluorescent imaging, and analysis of
-    muscle tissue in the Imiris program
+    muscle tissue in the Imiris program.
 
 Publications, Presentations, and Abstracts
 
@@ -248,8 +247,8 @@ cut_run_pipeline_nix September 2024
 -   Collaborative project with Dr. Stefanelli lab.
 -   Developed a pipeline for performing Cut&Run analysis and annotating
     the analysis outcomes.
--   Successfully stacked multiple technologies to create a user-friendly
-    pipeline
+-   Successfully stacked multiple technologies to create a robust
+    pipeline.
 -   Created a user-friendly guide for improving the utility of the
     pipeline for our collaborators.
 -   Improved the reproducibility of existing pipelines by utilizing Nix
@@ -258,10 +257,11 @@ cut_run_pipeline_nix September 2024
 text_features March 2024
 
 -   Compared and analyzed the impact of various feature selection
-    methods in influencing
+    methods in drug response prediction models.
 -   Created scripts to be used in high-performance computing environment
+    in the cloud and locally.
 -   Created large-scale visualizations to communicate abstract findings
-    to a wide audience
+    to a wide audience.
 
 SMC5-6_complex September, 2023
 
@@ -273,21 +273,23 @@ SMC5-6_complex September, 2023
 -   Performed survival analysis to identify the SMC5/6-related risk
     factors to cancer prognosis.
 -   Identified large-scale genomic instability associated with SMC5/6
-    mutation in patient transcriptome and phenome.
+    mutation in patient transcriptome.
 
 vian-clin-sci March 2023
 
 -   Reproduced the bioinformatics analysis performed by Viñas et
-    al. (2020)
--   Created a formatted report to present the re-analysis.
--   Enhanced the analysis outcomes by utilizing newer and more
-    cutting-edge tools.
+    al. (2020) .
+-   Developed a comprehensive report and delivered an in-depth
+    presentation of the re-analysis, incorporating detailed
+    visualizations and narrative summaries.
+-   Optimized the analysis outcomes by integrating state-of-the-art
+    bioinformatics tools to enhance data resolution and accuracy.
 
 ATG16L1-MYPT1 November 2022
 
--   Collaborative project with Dr. Ryan Russel lab
+-   Collaborative project with Dr. Ryan Russel lab.
 -   Performed a differential expression analysis of VHL and RB knockout
-    mice samples
+    mice samples.
 -   Identified the differentially expressed genes and pathways
-    associated with knockouts
--   Verified findings using literature text mining tools.
+    associated with knockouts.
+-   Verified findings using novel literature text mining tools.
