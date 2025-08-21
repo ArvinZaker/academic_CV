@@ -5,10 +5,10 @@ Honours Bachelor of Science - Translational and Molecular Medicine |
 
 University of Ottawa, Ottawa, ON
 
--   CGPA: 9.98/10
--   Major Research Project Supervisor: Dr. Arvind Mer
--   Major Research Project Title: Comparative analysis of drug response
-    metrics in patient-derived xenografts
+- CGPA: 9.98/10
+- Major Research Project Supervisor: Dr. Arvind Mer
+- Major Research Project Title: Comparative analysis of drug response
+  metrics in patient-derived xenografts
 
 Honours, Scholarships and Awards
 
@@ -16,61 +16,61 @@ NSERC - Undergraduate Student Research Awards (USRA) | (May 2023)
 
 University of Ottawa, Ottawa, ON
 
--   Competitive merit-based award. Selection based on academic
-    performance, quality of the research proposal, and the research’s
-    potential impact.
--   One of 88 awards available at the University of Ottawa.
--   Valued at $7500 for 3 months
+- Competitive merit-based award. Selection based on academic
+  performance, quality of the research proposal, and the research’s
+  potential impact.
+- One of 88 awards available at the University of Ottawa.
+- Valued at $7500 for 3 months
 
 Work in Biomedical Research Scholarship | (May 2022)
 
 University of Ottawa, Ottawa, ON
 
--   Competitive merit-based award. Selection based on academic
-    performance and the quality of the research proposal.
--   Under 50% success rate.
--   Valued at $3500 for 3 months
+- Competitive merit-based award. Selection based on academic performance
+  and the quality of the research proposal.
+- Under 50% success rate.
+- Valued at $3500 for 3 months
 
 TMM Summer Training program | (May 2022)
 
 University of Ottawa, Ottawa, ON
 
--   Competitive merit-based award. Selection based on based on academic
-    performance and the quality of the research proposal.
--   Valued at $8900 for 3 months.
+- Competitive merit-based award. Selection based on based on academic
+  performance and the quality of the research proposal.
+- Valued at $8900 for 3 months.
 
 Undergraduate Research Opportunities (UROP) | (December 2020)
 
 University of Ottawa, Ottawa, ON
 
--   Competitive merit-based award. Selection based on academic
-    performance and the quality of the research proposal.
--   Valued at $1000 for 4 months.
+- Competitive merit-based award. Selection based on academic performance
+  and the quality of the research proposal.
+- Valued at $1000 for 4 months.
 
 Dean’s Honour List & Merit Scholarship | (September 2019 - April 2023)
 
 University of Ottawa, Ottawa, ON
 
--   Merit-based award. Selection based on grade point average (GPA) in
-    post-secondary studies.
--   Valued at $1000 per term (awarded every term).
+- Merit-based award. Selection based on grade point average (GPA) in
+  post-secondary studies.
+- Valued at $1000 per term (awarded every term).
 
 Skills
 
--   Experienced in bioinformatics data analysis using R and Python
-    programming languages
--   Proficiency in developing reproducible bioinformatics pipelines in
-    Unix systems with a set of languages such as Bash, Nextflow and Nix.
--   Expertise in Multi-omics data analysis, including genomics,
-    epigenomics, and transcriptomics.
--   Proficient in bioinformatics programming using R and Python
-    programming languages
--   Expert in developing reproducible bioinformatics workflows across
-    Unix and high-performance computing environments.
--   Advanced machine learning model development in cancer genomics and
-    precision medicine.
--   Proficient in data visualization and statistical interpretation of
-    complex biological datasets.
+- Experienced in bioinformatics data analysis using R and Python
+  programming languages
+- Proficiency in developing reproducible bioinformatics pipelines in
+  Unix systems with a set of languages such as Bash, Nextflow and Nix.
+- Expertise in Multi-omics data analysis, including genomics,
+  epigenomics, and transcriptomics.
+- Proficient in bioinformatics programming using R and Python
+  programming languages
+- Expert in developing reproducible bioinformatics workflows across Unix
+  and high-performance computing environments.
+- Advanced machine learning model development in cancer genomics and
+  precision medicine.
+- Proficient in data visualization and statistical interpretation of
+  complex biological datasets.
 
 Research Experience
 
@@ -80,16 +80,15 @@ Supervisor: Dr. Arvind Mer (Primary Supervisor) and
 
 Contribution:
 
--   Collaborators: Dr. Ben Tsang, Dr. Gilda Stefanelli, and
-    Dr. Jean-Francois Couture.
--   Perform epigenomic analysis of clinical exosomal DNA samples to
-    identify differentially methylated regions and pathways.
--   Created and optimized Cut&Run epigenomic analysis pipeline to
-    explore the developmental impacts of neurological conditions in
-    mice.
--   Integrated and aggregated multi-omics data from 44 studies and
-    databases.
--   Performing external validation of the results on public datasets.
+- Collaborators: Dr. Ben Tsang, Dr. Gilda Stefanelli, and
+  Dr. Jean-Francois Couture.
+- Perform epigenomic analysis of clinical exosomal DNA samples to
+  identify differentially methylated regions and pathways.
+- Created and optimized Cut&Run epigenomic analysis pipeline to explore
+  the developmental impacts of neurological conditions in mice.
+- Integrated and aggregated multi-omics data from 44 studies and
+  databases.
+- Performing external validation of the results on public datasets.
 
 Research Assistant - Machine learning May 2023 - February 2024
 
@@ -97,15 +96,15 @@ Supervisor: Dr. Arvind Mer
 
 Contribution:
 
--   Developed machine-learning-based drug response metrics to predict
-    the probability of response to anti-cancer medication.
--   Compared multiple feature selection methods for drug-response
-    prediction machine-learning models to identify the most suitable
-    methods for translatable clinical models.
--   Applied the machine learning model to predict drug response to
-    chemotherapies.
--   Visualized the performance differential between machine learning
-    models.
+- Developed machine-learning-based drug response metrics to predict the
+  probability of response to anti-cancer medication.
+- Compared multiple feature selection methods for drug-response
+  prediction machine-learning models to identify the most suitable
+  methods for translatable clinical models.
+- Applied the machine learning model to predict drug response to
+  chemotherapies.
+- Visualized the performance differential between machine learning
+  models.
 
 Undergraduate Thesis September 2022 - April 2023
 
@@ -116,14 +115,14 @@ Xenograft
 
 Contribution:
 
--   Performed literature review to identify common methods of
-    quantifying drug response in patient-derived xenografts (PDX).
--   Developed xeMetron package to calculate 250 existing and novel
-    metrics for measuring the drug response in PDX.
--   Performed biomarker discovery to identify transcriptional markers of
-    drug sensitivity in chemotherapies.
--   Created machine learning algorithms to predict drug response in
-    clinical datasets.
+- Performed literature review to identify common methods of quantifying
+  drug response in patient-derived xenografts (PDX).
+- Developed xeMetron package to calculate 250 existing and novel metrics
+  for measuring the drug response in PDX.
+- Performed biomarker discovery to identify transcriptional markers of
+  drug sensitivity in chemotherapies.
+- Created machine learning algorithms to predict drug response in
+  clinical datasets.
 
 Summer Research Assistant January 2022 - August 2022
 
@@ -135,13 +134,13 @@ cancer
 
 Contribution:
 
--   Aggregated and combined data from 199 cancer studies to analyze the
-    mutational effects of SMC5/6 DNA repair complex in a pan-cancer
-    cohort.
--   Utilized R programming language to analyze the functional impact of
-    SMC5/6 mutation using transcriptomic data.
--   Performed cancer phenotype and survival analysis to study the
-    clinical implication of SMC5/6.
+- Aggregated and combined data from 199 cancer studies to analyze the
+  mutational effects of SMC5/6 DNA repair complex in a pan-cancer
+  cohort.
+- Utilized R programming language to analyze the functional impact of
+  SMC5/6 mutation using transcriptomic data.
+- Performed cancer phenotype and survival analysis to study the clinical
+  implication of SMC5/6.
 
 Student Research Assistant September 2021 - April 2022
 
@@ -151,12 +150,12 @@ Title: Discovery and Characterization of Phage Arzan and Khorshid
 
 Contribution:
 
--   Performed environmental sampling, phage extraction, and phage
-    amplification assays.
--   Conducted DNA extraction and restriction digest analysis via gel
-    electrophoresis.
--   Discovered and annotated the genome of two novel phages, Arzan and
-    Khorshid.
+- Performed environmental sampling, phage extraction, and phage
+  amplification assays.
+- Conducted DNA extraction and restriction digest analysis via gel
+  electrophoresis.
+- Discovered and annotated the genome of two novel phages, Arzan and
+  Khorshid.
 
 UROP Research Assistant November 2020 - July 2022
 
@@ -167,12 +166,12 @@ Kinetics.
 
 Contribution:
 
--   Designed experiments and set up research equipment for data
-    collection.
--   Performed experiments on mouse muscles using electrophysiological
-    equipment.
--   Performed antibody staining, fluorescent imaging, and analysis of
-    muscle tissue in the Imiris program.
+- Designed experiments and set up research equipment for data
+  collection.
+- Performed experiments on mouse muscles using electrophysiological
+  equipment.
+- Performed antibody staining, fluorescent imaging, and analysis of
+  muscle tissue in the Imiris program.
 
 Publications, Presentations, and Abstracts
 
@@ -244,52 +243,52 @@ Software Projects and Repositories
 
 cut_run_pipeline_nix September 2024
 
--   Collaborative project with Dr. Stefanelli lab.
--   Developed a pipeline for performing Cut&Run analysis and annotating
-    the analysis outcomes.
--   Successfully stacked multiple technologies to create a robust
-    pipeline.
--   Created a user-friendly guide for improving the utility of the
-    pipeline for our collaborators.
--   Improved the reproducibility of existing pipelines by utilizing Nix
-    programming language.
+- Collaborative project with Dr. Stefanelli lab.
+- Developed a pipeline for performing Cut&Run analysis and annotating
+  the analysis outcomes.
+- Successfully stacked multiple technologies to create a robust
+  pipeline.
+- Created a user-friendly guide for improving the utility of the
+  pipeline for our collaborators.
+- Improved the reproducibility of existing pipelines by utilizing Nix
+  programming language.
 
 text_features March 2024
 
--   Compared and analyzed the impact of various feature selection
-    methods in drug response prediction models.
--   Created scripts to be used in high-performance computing environment
-    in the cloud and locally.
--   Created large-scale visualizations to communicate abstract findings
-    to a wide audience.
+- Compared and analyzed the impact of various feature selection methods
+  in drug response prediction models.
+- Created scripts to be used in high-performance computing environment
+  in the cloud and locally.
+- Created large-scale visualizations to communicate abstract findings to
+  a wide audience.
 
 SMC5-6_complex September, 2023
 
--   Collaborative project with Dr. D’Amours lab.
--   Aggregated pan-cancer dataset of over 65,000 patients from across
-    144 studies.
--   Analyzed the mutational effect of the SMC5/6 protein complex and its
-    subunits.
--   Performed survival analysis to identify the SMC5/6-related risk
-    factors to cancer prognosis.
--   Identified large-scale genomic instability associated with SMC5/6
-    mutation in patient transcriptome.
+- Collaborative project with Dr. D’Amours lab.
+- Aggregated pan-cancer dataset of over 65,000 patients from across 144
+  studies.
+- Analyzed the mutational effect of the SMC5/6 protein complex and its
+  subunits.
+- Performed survival analysis to identify the SMC5/6-related risk
+  factors to cancer prognosis.
+- Identified large-scale genomic instability associated with SMC5/6
+  mutation in patient transcriptome.
 
 vian-clin-sci March 2023
 
--   Reproduced the bioinformatics analysis performed by Viñas et
-    al. (2020) .
--   Developed a comprehensive report and delivered an in-depth
-    presentation of the re-analysis, incorporating detailed
-    visualizations and narrative summaries.
--   Optimized the analysis outcomes by integrating state-of-the-art
-    bioinformatics tools to enhance data resolution and accuracy.
+- Reproduced the bioinformatics analysis performed by Viñas et
+  al. (2020) .
+- Developed a comprehensive report and delivered an in-depth
+  presentation of the re-analysis, incorporating detailed visualizations
+  and narrative summaries.
+- Optimized the analysis outcomes by integrating state-of-the-art
+  bioinformatics tools to enhance data resolution and accuracy.
 
 ATG16L1-MYPT1 November 2022
 
--   Collaborative project with Dr. Ryan Russel lab.
--   Performed a differential expression analysis of VHL and RB knockout
-    mice samples.
--   Identified the differentially expressed genes and pathways
-    associated with knockouts.
--   Verified findings using novel literature text mining tools.
+- Collaborative project with Dr. Ryan Russel lab.
+- Performed a differential expression analysis of VHL and RB knockout
+  mice samples.
+- Identified the differentially expressed genes and pathways associated
+  with knockouts.
+- Verified findings using novel literature text mining tools.

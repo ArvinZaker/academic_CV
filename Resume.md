@@ -18,7 +18,7 @@ header-includes:
 \title{\vspace{-3.5em}\textbf{Arvin Zaker}\vspace{-3.5em}}
 \maketitle
 
-\centering{\href{mailto:azake040@uottawa.ca}{\underline{\textsc{\faEnvelopeO} azake040@uottawa.ca}} |
+\centering{\href{mailto:arvzaker@student.ubc.ca}{\underline{\textsc{\faEnvelopeO} arvzaker@student.ubc.ca}} |
 \href{https://github.com/ArvinZaker}{\underline{\textsc{\faGithub} github.com/ArvinZaker}} }
 
 \flushleft
