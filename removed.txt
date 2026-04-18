@@ -1,0 +1,10 @@
+
+- CGPA: 9.98/10
+
++ Experienced in bioinformatics  data analysis using R and Python programming languages
++ Proficiency in developing reproducible bioinformatics pipelines in Unix systems with a set of languages such as Bash, Nextflow and Nix.
++ Expertise in Multi-omics data analysis, including genomics, epigenomics, and transcriptomics.
++ Proficient in bioinformatics programming using R and Python programming languages
++ Expert in developing reproducible bioinformatics workflows across Unix and high-performance computing environments.
++ Advanced machine learning model development in cancer genomics and precision medicine. 
++ Proficient in data visualization and statistical interpretation of complex biological datasets.

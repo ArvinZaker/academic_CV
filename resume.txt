@@ -1,11 +1,14 @@
 Educational Background
 
+Doctor of Medicine | (August 2025 - Present)
+
+University of British Columbia, Ottawa, ON
+
 Honours Bachelor of Science - Translational and Molecular Medicine |
 (September 2019 - April 2023)
 
 University of Ottawa, Ottawa, ON
 
-- CGPA: 9.98/10
 - Major Research Project Supervisor: Dr. Arvind Mer
 - Major Research Project Title: Comparative analysis of drug response
   metrics in patient-derived xenografts
@@ -57,26 +60,33 @@ University of Ottawa, Ottawa, ON
 
 Skills
 
-- Experienced in bioinformatics data analysis using R and Python
-  programming languages
-- Proficiency in developing reproducible bioinformatics pipelines in
-  Unix systems with a set of languages such as Bash, Nextflow and Nix.
-- Expertise in Multi-omics data analysis, including genomics,
-  epigenomics, and transcriptomics.
-- Proficient in bioinformatics programming using R and Python
-  programming languages
-- Expert in developing reproducible bioinformatics workflows across Unix
-  and high-performance computing environments.
-- Advanced machine learning model development in cancer genomics and
-  precision medicine.
-- Proficient in data visualization and statistical interpretation of
-  complex biological datasets.
+- Bioinformatics and computational data analysis in R and Python
+- Reproducible workflows in Unix (Bash, Nextflow, Nix) and
+  high-performance computing
+- Machine learning, deep learning, and radiomics for biomedical data
+- Multi-omics analysis (genomics, epigenomics, transcriptomics) and data
+  visualization
 
 Research Experience
 
-Research Assistant - Epigenomics March 2024 - Present
+Research Assistant – Medical Imaging AI Feb 2026 – Present
 
-Supervisor: Dr. Arvind Mer (Primary Supervisor) and
+Supervisor: Dr. Ilker Hacihaliloglu
+
+Contribution:
+
+- Applied deep learning models for medical image classification on a
+  dataset of 40,000+ images.
+- Performed radiomic feature extraction and model evaluation across
+  multiple architectures.
+- Utilized high-performance computing for large-scale training and
+  analysis.
+- Analyzed performance across patient subgroups and supported study
+  design.
+
+Research Assistant - Epigenomics March 2024 - Jan 2026
+
+Supervisor: Dr. Arvind Mer (Primary Supervisor)
 
 Contribution:
 
@@ -90,23 +100,7 @@ Contribution:
   databases.
 - Performing external validation of the results on public datasets.
 
-Research Assistant - Machine learning May 2023 - February 2024
-
-Supervisor: Dr. Arvind Mer
-
-Contribution:
-
-- Developed machine-learning-based drug response metrics to predict the
-  probability of response to anti-cancer medication.
-- Compared multiple feature selection methods for drug-response
-  prediction machine-learning models to identify the most suitable
-  methods for translatable clinical models.
-- Applied the machine learning model to predict drug response to
-  chemotherapies.
-- Visualized the performance differential between machine learning
-  models.
-
-Undergraduate Thesis September 2022 - April 2023
+Undergraduate Thesis September 2022 - Feb 2024
 
 Supervisor: Dr. Arvind Mer
 
@@ -182,6 +176,11 @@ Mes-Masson, A., Tsang, B., and Mer, A. (2024). Spotlight on Nuclear
 PD-L1 in Ovarian Cancer Chemoresistance: Hidden but Mighty. Cancer
 Research (Submitted manuscript in December 2024, currently under
 review).
+
+Asare-Werehene, M., Zaker, A., Tripathi, S., Communal, L., Carmona, E.,
+Mes-Masson, A.-M., Tsang, B. K., & Mer, A. (2025). Spotlight on nuclear
+PD-L1 in ovarian cancer chemoresistance: hidden but mighty. Frontiers in
+Immunology, 16.
 
 Grégoire, S., Grégoire, J., Yang, Y., Capitani, S., Joshi, M., Sarvan,
 S., Zaker, A., Ning, Z., Figeys, D., Ulrich, K., Brunzelle, J. S., Mer,

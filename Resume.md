@@ -30,11 +30,19 @@ header-includes:
 
 # Educational Background
 
+**Doctor of Medicine |  (August 2025 - Present)** 
+
+_University of British Columbia, Ottawa, ON_
+
+\vspace{0.25em}
+
+
 **Honours Bachelor of Science - Translational and Molecular Medicine |  (September 2019 - April 2023)** 
 
 _University of Ottawa, Ottawa, ON_
 
-- CGPA: 9.98/10
+\vspace{-0.25em}
+
 - Major Research Project Supervisor: Dr. Arvind Mer
 - Major Research Project Title: Comparative analysis of drug response metrics in patient-derived xenografts
 
@@ -49,6 +57,8 @@ _University of Ottawa, Ottawa, ON_
 
 _University of Ottawa, Ottawa, ON_
 
+\vspace{-0.25em}
+
 - Competitive merit-based award. Selection based on academic performance, quality of the research proposal, and the research's potential impact.
 - One of 88 awards available at the University of Ottawa.
 - Valued at $7500 for 3 months
@@ -60,6 +70,8 @@ _University of Ottawa, Ottawa, ON_
 
 _University of Ottawa, Ottawa, ON_
 
+\vspace{-0.25em}
+
 - Competitive merit-based award. Selection based on academic performance and the quality of the research proposal.
 - Under 50% success rate.
 - Valued at $3500 for 3 months
@@ -69,6 +81,8 @@ _University of Ottawa, Ottawa, ON_
 **TMM Summer Training program | (May 2022)** 
 
 _University of Ottawa, Ottawa, ON_
+
+\vspace{-0.25em}
 
 - Competitive merit-based award. Selection based on based on academic performance and the quality of the research proposal.
 - Valued at $8900 for 3 months.
@@ -80,6 +94,8 @@ _University of Ottawa, Ottawa, ON_
 
 _University of Ottawa, Ottawa, ON_
 
+\vspace{-0.25em}
+
 - Competitive merit-based award. Selection based on academic performance and the quality of the research proposal.
 - Valued at $1000 for 4 months.
 
@@ -88,6 +104,8 @@ _University of Ottawa, Ottawa, ON_
 **Dean's Honour List & Merit Scholarship | (September 2019 - April 2023)** 
 
 _University of Ottawa, Ottawa, ON_
+
+\vspace{-0.25em}
 
 - Merit-based award. Selection based on grade point average (GPA) in post-secondary studies.
 - Valued at $1000 per term (awarded every term).
@@ -103,13 +121,10 @@ _University of Ottawa, Ottawa, ON_
 
 # Skills
 
-+ Experienced in bioinformatics  data analysis using R and Python programming languages
-+ Proficiency in developing reproducible bioinformatics pipelines in Unix systems with a set of languages such as Bash, Nextflow and Nix.
-+ Expertise in Multi-omics data analysis, including genomics, epigenomics, and transcriptomics.
-+ Proficient in bioinformatics programming using R and Python programming languages
-+ Expert in developing reproducible bioinformatics workflows across Unix and high-performance computing environments.
-+ Advanced machine learning model development in cancer genomics and precision medicine. 
-+ Proficient in data visualization and statistical interpretation of complex biological datasets.
++ Bioinformatics and computational data analysis in R and Python
++ Reproducible workflows in Unix (Bash, Nextflow, Nix) and high-performance computing
++ Machine learning, deep learning, and radiomics for biomedical data
++ Multi-omics analysis (genomics, epigenomics, transcriptomics) and data visualization
 
 
 ######################################################################################################################################################################
@@ -119,9 +134,22 @@ _University of Ottawa, Ottawa, ON_
 
 # Research Experience
 
-**Research Assistant - Epigenomics \hfill March 2024 - Present**
+**Research Assistant – Medical Imaging AI \hfill Feb 2026 – Present**
 
-**Supervisor:** Dr. Arvind Mer (Primary Supervisor) and 
+**Supervisor:** Dr. Ilker Hacihaliloglu
+
+**Contribution:**
+
++ Applied deep learning models for medical image classification on a dataset of 40,000+ images.
++ Performed radiomic feature extraction and model evaluation across multiple architectures.
++ Utilized high-performance computing for large-scale training and analysis.
++ Analyzed performance across patient subgroups and supported study design.
+
+\vspace{0.25em}
+
+**Research Assistant - Epigenomics \hfill March 2024 - Jan 2026**
+
+**Supervisor:** Dr. Arvind Mer (Primary Supervisor)
 
 **Contribution:**
 
@@ -134,20 +162,7 @@ _University of Ottawa, Ottawa, ON_
 \vspace{0.25em}
 
 
-**Research Assistant - Machine learning \hfill May 2023 - February 2024**
-
-**Supervisor:** Dr. Arvind Mer 
-
-**Contribution:** 
-
-+ Developed machine-learning-based drug response metrics to predict the probability of response to anti-cancer medication.
-+ Compared multiple feature selection methods for drug-response prediction machine-learning models to identify the most suitable methods for translatable clinical models. 
-+ Applied the machine learning model to predict drug response to chemotherapies.
-+ Visualized the performance differential between machine learning models.
-
-\vspace{0.25em}
-
-**Undergraduate Thesis \hfill September 2022 - April 2023**
+**Undergraduate Thesis \hfill September 2022 - Feb 2024**
 
 **Supervisor:** Dr. Arvind Mer
 
@@ -210,29 +225,61 @@ _University of Ottawa, Ottawa, ON_
 
 **Publications**
 
-Asare-Werehene, M., **Zaker, A.**, Tripathi, S., Communal, L., Carmona, E., Mes-Masson, A., Tsang, B., and Mer, A. (2024). Spotlight on Nuclear PD-L1 in Ovarian Cancer Chemoresistance: Hidden but Mighty. _Cancer Research_ (Submitted manuscript in December 2024, currently under review). 
+Asare-Werehene, M., **Zaker, A.**, Tripathi, S., Communal, L., Carmona, E.,
+Mes-Masson, A., Tsang, B., and Mer, A. (2024). Spotlight on Nuclear PD-L1 in
+Ovarian Cancer Chemoresistance: Hidden but Mighty. _Cancer Research_ (Submitted
+manuscript in December 2024, currently under review). 
 
 \vspace{0.25em}
 
-Grégoire, S., Grégoire, J., Yang, Y., Capitani, S., Joshi, M., Sarvan, S., **Zaker, A.**, Ning, Z., Figeys, D., Ulrich, K., Brunzelle, J. S., Mer, A., & Couture, J.-F. (2024). Structural insights into an atypical histone binding mechanism by a PHD finger. _Structure_, 32(9), 1498-1506.e4. \href{https://doi.org/10.1016/j.str.2024.06.017}{\underline{\textsc{doi: 10.1016/j.str.2024.06.017}}}
+Asare-Werehene, M., **Zaker, A.**, Tripathi, S., Communal, L., Carmona, E.,
+Mes-Masson, A.-M., Tsang, B. K., & Mer, A. (2025). Spotlight on nuclear PD-L1 in
+ovarian cancer chemoresistance: hidden but mighty. _Frontiers in Immunology_,
+16. \href{https://doi.org/10.3389/fimmu.2025.1543529}{\underline{\textsc{doi:
+10.3389/fimmu.2025.1543529}}}
 
 \vspace{0.25em}
 
-Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S., & Mer, A. S. (2024). Text-mining-based feature selection for anticancer drug response prediction. _Bioinformatics Advances_, 4(1), vbae047. \href{https://doi.org/10.1093/bioadv/vbae047}{\underline{\textsc{doi: 10.1093/bioadv/vbae047}}}
+Grégoire, S., Grégoire, J., Yang, Y., Capitani, S., Joshi, M., Sarvan, S.,
+**Zaker, A.**, Ning, Z., Figeys, D., Ulrich, K., Brunzelle, J. S., Mer, A., &
+Couture, J.-F. (2024). Structural insights into an atypical histone binding
+mechanism by a PHD finger. _Structure_, 32(9), 1498-1506.e4.
+\href{https://doi.org/10.1016/j.str.2024.06.017}{\underline{\textsc{doi:
+10.1016/j.str.2024.06.017}}}
 
 \vspace{0.25em}
 
-Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.**, Xia, X., Mer, A. S., & D’Costa, V. M. (2024). Characterization of the diversity of type IV secretion system-encoding plasmids in Acinetobacter. _Emerging Microbes & Infections_, 13(1), 2320929. \href{https://doi.org/10.1080/22221751.2024.2320929}{\underline{\textsc{doi: 10.1080/22221751.2024.2320929}}}
+Wu, G., **Zaker, A.**, Ebrahimi, A., Tripathi, S., & Mer, A. S. (2024).
+Text-mining-based feature selection for anticancer drug response prediction.
+_Bioinformatics Advances_, 4(1), vbae047.
+\href{https://doi.org/10.1093/bioadv/vbae047}{\underline{\textsc{doi:
+10.1093/bioadv/vbae047}}}
 
 \vspace{0.25em}
 
-Roy, S., **Zaker, A.**, Mer, A., & D’Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. _NAR Cancer_, 5(3), zcad047. \href{https://doi.org/10.1093/narcan/zcad047}{\underline{\textsc{doi: 10.1093/narcan/zcad047}}}
+Nasser, F., Gaudreau, A., Lubega, S., **Zaker, A.**, Xia, X., Mer, A. S., &
+D’Costa, V. M. (2024). Characterization of the diversity of type IV secretion
+system-encoding plasmids in Acinetobacter. _Emerging Microbes & Infections_,
+13(1), 2320929.
+\href{https://doi.org/10.1080/22221751.2024.2320929}{\underline{\textsc{doi:
+10.1080/22221751.2024.2320929}}}
+
+\vspace{0.25em}
+
+Roy, S., **Zaker, A.**, Mer, A., & D’Amours, D. (2023). Large-scale phenogenomic
+analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex
+components in breast cancer. _NAR Cancer_, 5(3), zcad047.
+\href{https://doi.org/10.1093/narcan/zcad047}{\underline{\textsc{doi:
+10.1093/narcan/zcad047}}}
 
 \vspace{0.25em}
 
 **Posters and presentations at scientific meetings**
 
-Roy, S., **Zaker, A.**, Mer, A., D'Amours, D. (2023). Large-scale phenogenomic analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex components in breast cancer. _Canadian Society for Molecular Biosciences (CSMB) International Conference_. Ottawa, ON. (poster and presentation)
+Roy, S., **Zaker, A.**, Mer, A., D'Amours, D. (2023). Large-scale phenogenomic
+analysis of human cancers uncovers frequent alterations affecting SMC5/6 complex
+components in breast cancer. _Canadian Society for Molecular Biosciences (CSMB)
+International Conference_. Ottawa, ON. (poster and presentation)
 
 \vspace{0.25em}
 
